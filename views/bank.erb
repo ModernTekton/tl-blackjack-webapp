@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ruby Casino Blackjack</title>
+  <link rel="stylesheet" href="/teller.css">
+</head>
+
+<p></p>
+
+<p></p>
+
+<h2><span style="color: white; ">Welcome to Ruby Bank, <%= session[:name].capitalize %>!</span></h2>
+
+<h3><span style="color: white; ">"We DO provide easy, high-interest loans for Ruby Blackjack."</span></h3>
+<br>
+<h4><span style="color: white; ">Would you like 500 more Bitcoins?</span></h4>
+
+
+<form id="loan_form" action="/bank" method=post>
+  <div class="form-horizontal" width:400px
+  ;>
+  <button class="btn">Get Money!</button>
+  </div>
+</form>
+
+<form id="noloan_form" action="/game_over" method=post>
+  <div class="form-horizontal" width:600px
+  ;>
+  <button class="btn">No, I better quit...</button>
+  </div>
+</form>

@@ -1,0 +1,24 @@
+
+form#hit_form {
+    float: left;
+    margin-right: 10px;
+}
+
+form#stay_form {
+    float: left;
+}
+
+form#loan_form {
+    float: left;
+    margin-right: 10px;
+}
+
+form#noloan_form {
+    float: left;
+}
+
+.btn {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}

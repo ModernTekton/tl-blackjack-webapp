@@ -1,0 +1,13 @@
+# Logfile created on 2013-12-30 10:47:49 -0500 by logger.rb/44203
+I, [2013-12-30T10:47:49.510354 #29308]  INFO -- : 0:  coderay (1.1.0) from /usr/local/rvm/gems/ruby-2.1.0/specifications/coderay-1.1.0.gemspec
+I, [2013-12-30T10:47:50.073014 #29308]  INFO -- : 0:  daemons (1.1.9) from /usr/local/rvm/gems/ruby-2.1.0/specifications/daemons-1.1.9.gemspec
+I, [2013-12-30T10:48:02.595356 #29308]  INFO -- : 0:  eventmachine (1.0.3) from /usr/local/rvm/gems/ruby-2.1.0/specifications/eventmachine-1.0.3.gemspec
+I, [2013-12-30T10:48:03.446128 #29308]  INFO -- : 0:  method_source (0.8.2) from /usr/local/rvm/gems/ruby-2.1.0/specifications/method_source-0.8.2.gemspec
+I, [2013-12-30T10:48:04.345783 #29308]  INFO -- : 0:  slop (3.4.7) from /usr/local/rvm/gems/ruby-2.1.0/specifications/slop-3.4.7.gemspec
+I, [2013-12-30T10:48:05.734179 #29308]  INFO -- : 0:  pry (0.9.12.4) from /usr/local/rvm/gems/ruby-2.1.0/specifications/pry-0.9.12.4.gemspec
+I, [2013-12-30T10:48:05.735131 #29308]  INFO -- : 0:  rack (1.5.2) from /usr/local/rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2013-12-30T10:48:06.678676 #29308]  INFO -- : 0:  rack-protection (1.5.1) from /usr/local/rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.1.gemspec
+I, [2013-12-30T10:48:06.679193 #29308]  INFO -- : 0:  tilt (1.4.1) from /usr/local/rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2013-12-30T10:48:07.360348 #29308]  INFO -- : 0:  sinatra (1.4.4) from /usr/local/rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2013-12-30T10:48:09.877754 #29308]  INFO -- : 0:  thin (1.6.1) from /usr/local/rvm/gems/ruby-2.1.0/specifications/thin-1.6.1.gemspec
+I, [2013-12-30T10:48:09.879462 #29308]  INFO -- : 0:  bundler (1.5.1) from /usr/local/rvm/gems/ruby-2.1.0/specifications/bundler-1.5.1.gemspec

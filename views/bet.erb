@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ruby Casino Blackjack</title>
+  <link rel="stylesheet" href="/front.css">
+</head>
+
+<p></p><p></p>
+<h2><span style="color: white; ">Hello <%= session[:name].capitalize %>!</span></h2>
+<h2><span style="color: white; ">Welcome to my Ruby</span></h2>
+<h2><span style="color: white; ">Blackjack table.</span></h2>
+<br>
+<h4><span style="color: white; ">How much would you like to bet today?</span></h4>
+<h5><span style="color: white; ">You have <%= session[:money]%> Bitcoins available.</span></h5>
+
+<form action = /bet method = post>
+  <div class="form-horizontal">
+    <input type="text" name="bet"/>
+    <button class="btn">Bet</button>
+  </div>
+</form>
+
+
+
